@@ -1,0 +1,415 @@
+$date
+     Mar 14, 2023       08:29:43
+$end
+
+$version
+ SystemC 2.3.3-Accellera --- Jun  7 2022 13:10:00
+$end
+
+$timescale
+     1 ns
+$end
+
+$scope module SystemC $end
+$scope module top $end
+$var real    1  aaaaa  source_fft_0       $end
+$var real    1  aaaab  source_fft_1       $end
+$var real    1  aaaac  source_fft_2       $end
+$var real    1  aaaad  source_fft_3       $end
+$var real    1  aaaae  source_fft_4       $end
+$var real    1  aaaaf  source_fft_5       $end
+$var real    1  aaaag  source_fft_6       $end
+$var real    1  aaaah  source_fft_7       $end
+$var real    1  aaaai  source_fft_8       $end
+$var real    1  aaaaj  source_fft_9       $end
+$var real    1  aaaak  source_fft_10       $end
+$var real    1  aaaal  source_fft_11       $end
+$var real    1  aaaam  source_fft_12       $end
+$var real    1  aaaan  source_fft_13       $end
+$var real    1  aaaao  source_fft_14       $end
+$var real    1  aaaap  source_fft_15       $end
+$var real    1  aaaaq  fft_sink_0       $end
+$var real    1  aaaar  fft_sink_1       $end
+$var real    1  aaaas  fft_sink_2       $end
+$var real    1  aaaat  fft_sink_3       $end
+$var real    1  aaaau  fft_sink_4       $end
+$var real    1  aaaav  fft_sink_5       $end
+$var real    1  aaaaw  fft_sink_6       $end
+$var real    1  aaaax  fft_sink_7       $end
+$var real    1  aaaay  fft_sink_8       $end
+$var real    1  aaaaz  fft_sink_9       $end
+$var real    1  aaaba  fft_sink_10       $end
+$var real    1  aaabb  fft_sink_11       $end
+$var real    1  aaabc  fft_sink_12       $end
+$var real    1  aaabd  fft_sink_13       $end
+$var real    1  aaabe  fft_sink_14       $end
+$var real    1  aaabf  fft_sink_15       $end
+$upscope $end
+$upscope $end
+$enddefinitions  $end
+
+$comment
+All initial values are dumped below at time 0 sec = 0 timescale units.
+$end
+
+$dumpvars
+r2011 aaaaa
+r0 aaaab
+r6.594295324105558e+22 aaaac
+r7.555081327053433e+31 aaaad
+r3.559244355763391e-17 aaaae
+r1.832023514993055e+25 aaaaf
+r6.593495034451775e+22 aaaag
+r7.555081327053433e+31 aaaah
+r0 aaaai
+r0 aaaaj
+r0 aaaak
+r0 aaaal
+r0 aaaam
+r0 aaaan
+r0 aaaao
+r0 aaaap
+r0 aaaaq
+r0 aaaar
+r6.594295324105558e+22 aaaas
+r7.555081327053433e+31 aaaat
+r3.559244355763391e-17 aaaau
+r1.832023514993055e+25 aaaav
+r6.593495034451775e+22 aaaaw
+r7.555081327053433e+31 aaaax
+r0 aaaay
+r0 aaaaz
+r0 aaaba
+r0 aaabb
+r0 aaabc
+r0 aaabd
+r0 aaabe
+r0 aaabf
+$end
+
+#10
+r2011 aaaab
+
+#20
+r2011 aaaac
+
+#30
+r2011 aaaad
+
+#40
+r2011 aaaae
+
+#50
+r2011 aaaaf
+
+#60
+r2011 aaaag
+
+#70
+r2011 aaaah
+
+#80
+r2011 aaaai
+
+#90
+r2011 aaaaj
+
+#100
+r2011 aaaak
+
+#110
+r2011 aaaal
+
+#120
+r2011 aaaam
+
+#130
+r2011 aaaan
+
+#140
+r2011 aaaao
+
+#150
+r2011 aaaap
+
+#160
+r1 aaaaa
+r0 aaaab
+r0 aaaac
+r0 aaaad
+r0 aaaae
+r0 aaaaf
+r0 aaaag
+r0 aaaah
+r0 aaaai
+r0 aaaaj
+r0 aaaak
+r0 aaaal
+r0 aaaam
+r0 aaaan
+r0 aaaao
+r0 aaaap
+r16088 aaaaq
+r16088 aaaar
+r0 aaaas
+r0 aaaat
+r0 aaaau
+r0 aaaav
+r0 aaaaw
+r0 aaaax
+
+#170
+r1 aaaab
+r0 aaaaq
+
+#180
+r0 aaaar
+
+#320
+r0 aaaaa
+r0 aaaab
+r1 aaaaq
+r1 aaaar
+r1 aaaas
+r1 aaaat
+r1 aaaau
+r1 aaaav
+r1 aaaaw
+r1 aaaax
+r1 aaaay
+r1 aaaaz
+r1 aaaba
+r1 aaabb
+r1 aaabc
+r1 aaabd
+r1 aaabe
+r1 aaabf
+
+#330
+r456 aaaab
+r0 aaaaq
+
+#340
+r120 aaaac
+r0 aaaar
+
+#350
+r234 aaaad
+r0 aaaas
+
+#360
+r234 aaaae
+r0 aaaat
+
+#370
+r120 aaaaf
+r0 aaaau
+
+#380
+r120 aaaag
+r0 aaaav
+
+#390
+r0 aaaaw
+
+#400
+r0 aaaax
+
+#410
+r-120 aaaaj
+r0 aaaay
+
+#420
+r-120 aaaak
+r0 aaaaz
+
+#430
+r-234 aaaal
+r0 aaaba
+
+#440
+r-234 aaaam
+r0 aaabb
+
+#450
+r-456 aaaan
+r0 aaabc
+
+#460
+r-120 aaaao
+r0 aaabd
+
+#470
+r-768 aaaap
+r0 aaabe
+
+#480
+r123 aaaaa
+r0 aaaab
+r0 aaaac
+r0 aaaad
+r0 aaaae
+r0 aaaaf
+r0 aaaag
+r0 aaaaj
+r0 aaaak
+r0 aaaal
+r0 aaaam
+r0 aaaan
+r0 aaaao
+r0 aaaap
+r-768 aaaar
+r1449.98388671875 aaaas
+r-443.5432739257812 aaaat
+r768 aaaau
+r672 aaaav
+r297.9840087890625 aaaaw
+r916.7208251953125 aaaax
+r768 aaaaz
+r-297.9839477539062 aaaba
+r659.5432739257812 aaabb
+r-768 aaabc
+r672 aaabd
+r-1449.984008789062 aaabe
+r1171.279174804688 aaabf
+
+#490
+r29 aaaab
+
+#500
+r34 aaaac
+r0 aaaar
+
+#510
+r34 aaaad
+r0 aaaas
+
+#520
+r-23 aaaae
+r0 aaaat
+
+#530
+r85 aaaaf
+r0 aaaau
+
+#540
+r12 aaaag
+r0 aaaav
+
+#550
+r206 aaaah
+r0 aaaaw
+
+#560
+r45 aaaai
+r0 aaaax
+
+#570
+r336 aaaaj
+
+#580
+r0 aaaaz
+
+#590
+r593 aaaal
+r0 aaaba
+
+#600
+r67 aaaam
+r0 aaabb
+
+#610
+r823 aaaan
+r0 aaabc
+
+#620
+r134 aaaao
+r0 aaabd
+
+#630
+r422 aaaap
+r0 aaabe
+
+#640
+r422 aaaaa
+r0 aaaab
+r0 aaaac
+r0 aaaad
+r0 aaaae
+r0 aaaaf
+r0 aaaag
+r0 aaaah
+r0 aaaai
+r0 aaaaj
+r0 aaaal
+r0 aaaam
+r0 aaaan
+r0 aaaao
+r0 aaaap
+r392 aaaaq
+r2528 aaaar
+r-1097.699096679688 aaaas
+r-397.3121948242188 aaaat
+r123 aaaau
+r-431 aaaav
+r157.68359375 aaaaw
+r-92.23699951171875 aaaax
+r32 aaaay
+r18 aaaaz
+r-222.3009033203125 aaaba
+r-36.68778991699219 aaabb
+r125 aaabc
+r-655 aaabd
+r1474.31640625 aaabe
+r-701.7630004882812 aaabf
+
+#650
+r422 aaaab
+r0 aaaaq
+
+#660
+r0 aaaar
+
+#670
+r0 aaaas
+
+#680
+r0 aaaat
+
+#690
+r0 aaaau
+
+#700
+r0 aaaav
+
+#710
+r0 aaaaw
+
+#720
+r0 aaaax
+
+#730
+r0 aaaay
+
+#740
+r0 aaaaz
+
+#750
+r0 aaaba
+
+#760
+r0 aaabb
+
+#770
+r0 aaabc
+
+#780
+r0 aaabd
+
+#790
+r0 aaabe
+
+#800
+r0 aaabf
+
+#2000

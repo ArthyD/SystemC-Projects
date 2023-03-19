@@ -1,0 +1,219 @@
+$date
+     Mar 14, 2023       15:55:19
+$end
+
+$version
+ SystemC 2.3.3-Accellera --- Jun  7 2022 13:10:00
+$end
+
+$timescale
+     1 ns
+$end
+
+$scope module SystemC $end
+$scope module top $end
+$var wire   23  aaaaa  source_fft [22:0]  $end
+$var wire   23  aaaab  fft_sink [22:0]  $end
+$upscope $end
+$upscope $end
+$enddefinitions  $end
+
+$comment
+All initial values are dumped below at time 0 sec = 0 timescale units.
+$end
+
+$dumpvars
+b10000 aaaaa
+b10000 aaaab
+$end
+
+#10
+b11111011011 aaaaa
+
+#170
+b1 aaaaa
+
+#190
+b11111011011000 aaaab
+
+#210
+b0 aaaab
+
+#370
+b0 aaaaa
+
+#530
+b1 aaaab
+
+#700
+b111001000 aaaaa
+
+#710
+b1111000 aaaaa
+
+#720
+b11101010 aaaaa
+
+#740
+b1111000 aaaaa
+
+#760
+b0 aaaaa
+
+#780
+b11111111111111110001000 aaaaa
+
+#800
+b11111111111111100010110 aaaaa
+
+#820
+b11111111111111000111000 aaaaa
+
+#830
+b11111111111111110001000 aaaaa
+
+#840
+b11111111111110100000000 aaaaa
+
+#850
+b1111011 aaaaa
+
+#870
+b0 aaaab
+
+#880
+b11111111111110100000000 aaaab
+
+#890
+b10110010010 aaaab
+
+#900
+b11111111111111001010011 aaaab
+
+#910
+b1100000000 aaaab
+
+#920
+b1010100000 aaaab
+
+#930
+b100010010 aaaab
+
+#940
+b1110011000 aaaab
+
+#950
+b0 aaaab
+
+#960
+b1100000000 aaaab
+
+#970
+b11111111111111011101110 aaaab
+
+#980
+b1010000101 aaaab
+
+#990
+b11111111111110100000000 aaaab
+
+#1000
+b1010100000 aaaab
+
+#1010
+b11111111111101001101110 aaaab
+
+#1020
+b10010010000 aaaab
+
+#1040
+b11101 aaaaa
+
+#1050
+b100010 aaaaa
+
+#1070
+b11111111111111111101001 aaaaa
+
+#1080
+b1010101 aaaaa
+
+#1090
+b1100 aaaaa
+
+#1100
+b11001110 aaaaa
+
+#1110
+b101101 aaaaa
+
+#1120
+b101010000 aaaaa
+
+#1130
+b0 aaaaa
+
+#1140
+b1001010001 aaaaa
+
+#1150
+b1000011 aaaaa
+
+#1160
+b1100110111 aaaaa
+
+#1170
+b10000110 aaaaa
+
+#1180
+b110100110 aaaaa
+
+#1210
+b110001000 aaaab
+
+#1220
+b100111100000 aaaab
+
+#1230
+b11111111111101111000010 aaaab
+
+#1240
+b11111111111111001110111 aaaab
+
+#1250
+b1111011 aaaab
+
+#1260
+b11111111111111001010001 aaaab
+
+#1270
+b10110000 aaaab
+
+#1280
+b11111111111111110011011 aaaab
+
+#1290
+b100000 aaaab
+
+#1300
+b10010 aaaab
+
+#1310
+b11111111111111100010110 aaaab
+
+#1320
+b11111111111111111010111 aaaab
+
+#1330
+b1111101 aaaab
+
+#1340
+b11111111111110101110001 aaaab
+
+#1350
+b10110110000 aaaab
+
+#1360
+b11111111111110101001011 aaaab
+
+#2000

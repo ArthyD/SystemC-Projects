@@ -1,0 +1,219 @@
+$date
+     Feb 28, 2023       10:42:03
+$end
+
+$version
+ SystemC 2.3.3-Accellera --- Jun  7 2022 13:10:00
+$end
+
+$timescale
+     1 ns
+$end
+
+$scope module SystemC $end
+$scope module top $end
+$var real    1  aaaaa  source_fft       $end
+$var real    1  aaaab  fft_sink       $end
+$upscope $end
+$upscope $end
+$enddefinitions  $end
+
+$comment
+All initial values are dumped below at time 0 sec = 0 timescale units.
+$end
+
+$dumpvars
+r16 aaaaa
+r16 aaaab
+$end
+
+#10
+r2011 aaaaa
+
+#170
+r1 aaaaa
+
+#190
+r16088 aaaab
+
+#210
+r0 aaaab
+
+#370
+r0 aaaaa
+
+#530
+r1 aaaab
+
+#700
+r456 aaaaa
+
+#710
+r120 aaaaa
+
+#720
+r234 aaaaa
+
+#740
+r120 aaaaa
+
+#760
+r0 aaaaa
+
+#780
+r-120 aaaaa
+
+#800
+r-234 aaaaa
+
+#820
+r-456 aaaaa
+
+#830
+r-120 aaaaa
+
+#840
+r-768 aaaaa
+
+#850
+r123 aaaaa
+
+#870
+r0 aaaab
+
+#880
+r-768 aaaab
+
+#890
+r1449.98388671875 aaaab
+
+#900
+r-443.5432739257812 aaaab
+
+#910
+r768 aaaab
+
+#920
+r672 aaaab
+
+#930
+r297.9840087890625 aaaab
+
+#940
+r916.7208251953125 aaaab
+
+#950
+r0 aaaab
+
+#960
+r768 aaaab
+
+#970
+r-297.9839477539062 aaaab
+
+#980
+r659.5432739257812 aaaab
+
+#990
+r-768 aaaab
+
+#1000
+r672 aaaab
+
+#1010
+r-1449.984008789062 aaaab
+
+#1020
+r1171.279174804688 aaaab
+
+#1040
+r29 aaaaa
+
+#1050
+r34 aaaaa
+
+#1070
+r-23 aaaaa
+
+#1080
+r85 aaaaa
+
+#1090
+r12 aaaaa
+
+#1100
+r206 aaaaa
+
+#1110
+r45 aaaaa
+
+#1120
+r336 aaaaa
+
+#1130
+r0 aaaaa
+
+#1140
+r593 aaaaa
+
+#1150
+r67 aaaaa
+
+#1160
+r823 aaaaa
+
+#1170
+r134 aaaaa
+
+#1180
+r422 aaaaa
+
+#1210
+r392 aaaab
+
+#1220
+r2528 aaaab
+
+#1230
+r-1097.699096679688 aaaab
+
+#1240
+r-397.3121948242188 aaaab
+
+#1250
+r123 aaaab
+
+#1260
+r-431 aaaab
+
+#1270
+r157.68359375 aaaab
+
+#1280
+r-92.23699951171875 aaaab
+
+#1290
+r32 aaaab
+
+#1300
+r18 aaaab
+
+#1310
+r-222.3009033203125 aaaab
+
+#1320
+r-36.68778991699219 aaaab
+
+#1330
+r125 aaaab
+
+#1340
+r-655 aaaab
+
+#1350
+r1474.31640625 aaaab
+
+#1360
+r-701.7630004882812 aaaab
+
+#2000
